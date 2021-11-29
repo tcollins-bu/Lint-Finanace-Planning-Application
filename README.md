@@ -14,7 +14,7 @@ Features: \
 
 
 Getting Started:   
-Database: Start an AWS RDS instance with the database information found in the < application.properties > file found inside the 'Lint Financial Backend' project folder  
+Database: Start AWS RDS with the database information found in the < application.properties > file found inside the 'Lint Financial Backend' project folder  
 Backend: Run < Project2Appication.java > inside a Java IDE or command line inside the 'Lint Financial Backend' project folder  
 Frontend: Run command < ng serve -o > in command line inside the 'Lint Financial Frontend' project folder  
 
