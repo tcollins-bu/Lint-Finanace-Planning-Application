@@ -4,7 +4,7 @@ Project Description: Lint is a web-based financial-planning application that is 
   
 Technologies Used: Java, Hibernate, Angular 13, Selenium IDE, Spring Boot, Spring Data, AWS RDS, Swagger, Lombok, REST, JUnit, Karma & Jasmine, Protactor, Mockito, PostgreSQL  
   
-Features: \
+Features:
 1. Login - A user may log into their User Account with a valid Username & Password combination  
 2. Create Budget - A user may create, edit, and track budgets with assigned spending categories and durations  
 3. Connect Account(s) - A user may connect Bank/Credit accounts to their User Account  
